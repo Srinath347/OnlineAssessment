@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *  problem statement : <a href="https://leetcode.com/problems/partition-labels/">https://leetcode.com/problems/partition-labels/</a>
+ *  problem statement : https://leetcode.com/problems/partition-labels/
  */
 public class Partition_Labels {
 
