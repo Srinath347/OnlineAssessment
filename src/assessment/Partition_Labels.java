@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  *  problem statement : https://leetcode.com/problems/partition-labels/
+ *  TC : O(N) where N is length of the input String
+ *  SC : O(1)
  */
 public class Partition_Labels {
 

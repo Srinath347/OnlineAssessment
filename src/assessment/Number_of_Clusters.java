@@ -5,6 +5,8 @@ import java.util.Queue;
 
 /**
  *  problem statement : https://leetcode.com/problems/number-of-islands/
+ *  TC : O(rows*columns)
+ *  SC : O(rows*Columns)
  */
 public class Number_of_Clusters {
 

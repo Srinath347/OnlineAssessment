@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 /**
  * problem statement : https://leetcode.com/problems/reorder-data-in-log-files/
+ * TC : O(N*log(N))
+ * SC : O(1), as in-built sorting algorithm is double pivoted quick sort
  */
 public class Reorder_Data_in_Log_Files {
 

@@ -6,6 +6,8 @@ import java.util.List;
 
 /**
  *  problem statement : https://leetcode.com/problems/search-suggestions-system/
+ *  TC : O((N*log(N)) + (N*M)), where N is input array (products) size and M is maximum string length in products.
+ *  SC : O(N*M)
  */
 public class Product_Suggestions {
 
@@ -16,7 +18,6 @@ public class Product_Suggestions {
         Node[] ch;
         List<String> words;
         Node() {
-
             ch = new Node[26];
             words = new ArrayList<>();
         }

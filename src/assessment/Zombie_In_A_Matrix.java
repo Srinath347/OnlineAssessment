@@ -6,6 +6,8 @@ import java.util.Queue;
 /**
  * problem statement : https://leetcode.com/discuss/interview-question/411357/
  * similar to : https://leetcode.com/problems/rotting-oranges/
+ * TC : O(rows*columns)
+ * SC : O(rows*columns)
  */
 public class Zombie_In_A_Matrix {
 
